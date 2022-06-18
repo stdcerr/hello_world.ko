@@ -1,0 +1,1 @@
+cmd_/home/ron/src/ldd3/scull/scull.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/ron/src/ldd3/scull/scull.ko /home/ron/src/ldd3/scull/scull.o /home/ron/src/ldd3/scull/scull.mod.o;  true
